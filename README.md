@@ -6,7 +6,7 @@ The work covers real scenarios such as data cleaning, aggregation, reporting, an
 
 ## What’s Included
 
-### SQL
+### SQL- A group of queries that explore the job market based on the niche of jobs(da/ds)
 - Joins and subqueries
 - Window functions
 - Aggregations and grouping
